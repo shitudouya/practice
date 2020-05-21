@@ -6,7 +6,6 @@ It is a site for recording my usual exercises.
 
 Make progress every day!
 
-[TOC]
 
 #### 1.Progress Indicator
 
